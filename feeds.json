@@ -3,8 +3,8 @@
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "Holly and Grace",
     "feedIdentifier": "io.github.WWDCPhotoFilters",
-    "contactURL": "mailto:example@apple.com", // 订阅发布者的联系方式
-    "formatVersion": "1.0", //订阅 Feed 发布版本号
+    "contactURL": "mailto:example@apple.com",
+    "formatVersion": "1.0",
     "documents": [
         {
             "title": "Image Transitions",
