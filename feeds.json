@@ -1,0 +1,32 @@
+{
+    "title": "WWDC Photo Filters",
+    "subtitle": "A Collection of Swift Lessons",
+    "publisherName": "Holly and Grace",
+    "feedIdentifier": "io.github.WWDCPhotoFilters",
+    "contactURL": "mailto:example@apple.com", // 订阅发布者的联系方式
+    "formatVersion": "1.0", //订阅 Feed 发布版本号
+    "documents": [
+        {
+            "title": "Image Transitions",
+            "overviewSubtitle": "CIFilters in the Transition Category.",
+            "detailSubtitle": "Filters in CICategoryTransition.",
+            "description": "Learn some ways to use Core Image to transition between images.",
+            "contentIdentifier": "io.github.WWDCPhotoFilters.imageTransitions",
+            "contentVersion": "1.0",
+            "url": "https://WWDCPhotoFilters.github.io/ImageTransitions/ImageTransitions.playgroundbook.zip",
+            "publishedDate": "2018-05-18T12:00:00+00:00",
+            "lastUpdatedDate": "2018-05-18T12:00:00+00:00",
+            "thumbnailURL": "ImageTransitions/thumbnail.png",
+            "bannerImageURL": "ImageTransitions/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+            "keypaths/preview-1.png"
+            ]
+        }
+    ]
+}
