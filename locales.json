@@ -1,4 +1,4 @@
 {
-    en: "Feeds/en_lproj/feed.json",
-    zh_CN: "Feeds/zh_CN_lproj/feed.json"
+    "en": "Feeds/en_lproj/feed.json",
+    "zh_CN": "Feeds/zh_CN_lproj/feed.json"
 }
